@@ -5,6 +5,12 @@
   flex-wrap: wrap;
   /* justify-content: center;  */
 }
+img{
+  width:200px;
+}
+h1,h2{
+  font-style: italic;
+}
 .left{
   flex: 1;
   background-color: #999;
