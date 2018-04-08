@@ -4,5 +4,38 @@
     "name":"s.shriya",
     "phone":"1234567890",
     "email":"shriyaprasad45@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"Programming languages",
+      "value":"C,C++,JAVA"
+    },
+    {
+      "name":"operating Systems",
+      "value":"Windows,Linux"
+    },
+    {
+      "name":"Web tecnologies",
+      "value":"HTML,CSS,JAVASCRIPT,PYTHON"
+    }
+  ],
+  "education":[
+    {
+      "course":"B.tech(computer science and engineering)",
+      "college":[
+        "sri venkateswara institute of technology",
+        "2015-2019",
+        "78%"
+      ]
+    },
+  {
+    "course":"ssc",
+    "college":[
+      "pcmr school",
+      "2012-2015",
+      "93%"
+    ]
   }
+
+  ]
 }
